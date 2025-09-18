@@ -66,4 +66,17 @@ ProjectOrpheus/
 |—— dist/                               # For end-users: Contains the distributable application.
     |—— ProjectOrpheus.jar
     |—— jre/
+
     |—— run.bat
+
+
+
+
+
+---
+
+## 📜 Full Documentation
+
+For a detailed, class-by-class technical breakdown of the engine's architecture, the full Javadoc is available.
+
+*   **[Browse the Full API Documentation](./docs/index.html)**
